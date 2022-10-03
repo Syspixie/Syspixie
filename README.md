@@ -1,7 +1,6 @@
 - 👋 Hello, I’m Syspixie
 - 👀 I’m interested in model railway electronics; developing hardware, firmware and software.
 - 🌱 I’m currently learning to program PIC18F microcontrollers.
-- 📫 syspixie@gmail.com
 
 <!---
 Syspixie/Syspixie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
