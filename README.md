@@ -1,5 +1,5 @@
-- 👋 Hello, I’m Syspixie
-- 👀 I’m interested in model railway electronics; developing hardware, firmware and software.
+- 👋 Hello, I am Konrad Orlowski
+- 👀 I am interested in model railway electronics; developing hardware, firmware and software.
 - 🌱 I’m currently learning to program PIC18F microcontrollers.
 
 <!---
