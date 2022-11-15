@@ -1,4 +1,4 @@
-- 👋 Hello, I am Konrad Orlowski
+- 👋 Hello, my name is Konrad.
 - 👀 I am interested in model railway electronics; developing hardware, firmware and software.
 - 🌱 I’m currently learning to program PIC18F microcontrollers.
 
